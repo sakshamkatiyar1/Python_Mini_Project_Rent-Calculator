@@ -59,4 +59,5 @@ Each person will pay = 3375
 
 ## Project Screenshot
 
-![Rent Calculator Output](Rent Calculator Screenshot.png)
+![Rent Calculator Output](https://github.com/sakshamkatiyar1/Python_Mini_Project_Rent-Calculator/blob/main/Rent%20Calculator%20Screenshot.png)
+
