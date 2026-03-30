@@ -3,14 +3,10 @@
 
 The Rent Calculator is a simple Python-based mini project that helps calculate the total amount each person needs to pay when sharing a flat or hostel. It considers rent, food expenses, and electricity charges, and divides the total cost among all individuals.
 
-This project is useful for beginners to understand basic Python concepts such as user input, arithmetic operations, and variables.
-
 # Features
 Takes user input for all major expenses
 Calculates electricity bill based on units consumed
 Divides total expenses among multiple people
-Simple and easy-to-understand logic
-Beginner-friendly project
 
 # Inputs Required
 
@@ -40,6 +36,7 @@ Final amount per person:
 amount_per_person = total_expense // persons
 
 The result is displayed on the screen.
+
 # Technologies Used
 Python (Basic)
 
