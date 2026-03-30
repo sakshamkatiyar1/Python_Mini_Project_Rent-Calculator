@@ -59,4 +59,4 @@ Each person will pay = 3375
 
 ## Project Screenshot
 
-![Rent Calculator Output](screenshot.png)
+![Rent Calculator Output](Rent Calculator Screenshot.png)
